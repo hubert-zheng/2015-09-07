@@ -1,3 +1,5 @@
+hibernate 注解配置ORM
+
 在src\main\resources\dbconfig.properties 设置数据库信息
 
 mvn compile
